@@ -8,5 +8,3 @@ storage_account_name= "statestoring"
 
 storage_container_name= "aminblob1"
 
-admin_username = "amin"
-admin_password =  "Password12345!"
